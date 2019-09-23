@@ -1,0 +1,20 @@
+{
+  "name": "cookie-auth",
+  "version": "1.0.0",
+  "description": "cookie authentication with next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "\"Reed Barger\"",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
